@@ -1,0 +1,26 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/grue.png": "outlined_sprite:grue_icon.png" ,
+	"lycanitesmobs:textures/entity/grue_scarlet.png": "outlined_sprite:grue_scarlet_icon.png" ,
+	"lycanitesmobs:textures/entity/grue_verdant.png": "outlined_sprite:grue_verdant_icon.png" ,
+	"lycanitesmobs:textures/entity/grue_shadow_clown.png": "outlined_sprite:grue_shadow_clown_icon.png" ,
+	"lycanitesmobs:textures/entity/grue_lunar.png": "outlined_sprite:grue_lunar_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

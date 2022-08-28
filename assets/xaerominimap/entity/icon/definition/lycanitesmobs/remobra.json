@@ -1,0 +1,24 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/remobra.png": "outlined_sprite:remobra_icon.png" ,
+	"lycanitesmobs:textures/entity/remobra_golden.png": "outlined_sprite:remobra_golden_icon.png" ,
+	"lycanitesmobs:textures/entity/remobra_verdant.png": "outlined_sprite:remobra_verdant_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

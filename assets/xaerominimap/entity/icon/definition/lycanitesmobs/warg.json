@@ -1,0 +1,24 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/warg.png": "outlined_sprite:warg_icon.png" ,
+	"lycanitesmobs:textures/entity/warg_ashen.png": "outlined_sprite:warg_ashen_icon.png" ,
+	"lycanitesmobs:textures/entity/warg_dark.png": "outlined_sprite:warg_dark_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/reaper.png": "outlined_sprite:reaper_icon.png" ,
+	"lycanitesmobs:textures/entity/reaper_azure.png": "outlined_sprite:reaper_azure_icon.png" ,
+	"lycanitesmobs:textures/entity/reaper_verdant.png": "outlined_sprite:reaper_verdant_icon.png" ,
+	"lycanitesmobs:textures/entity/reaper_satan_claws.png": "outlined_sprite:reaper_satan_claws_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

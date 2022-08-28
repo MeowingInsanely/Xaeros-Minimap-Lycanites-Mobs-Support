@@ -1,0 +1,26 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/pinky.png": "outlined_sprite:pinky_icon.png" ,
+	"lycanitesmobs:textures/entity/pinky_ashen.png": "outlined_sprite:pinky_ashen_icon.png" ,
+	"lycanitesmobs:textures/entity/pinky_scarlet.png": "outlined_sprite:pinky_scarlet_icon.png" ,
+	"lycanitesmobs:textures/entity/pinky_verdant_moloch.png": "outlined_sprite:pinky_verdant_moloch_icon.png" ,
+	"lycanitesmobs:textures/entity/pinky_golden_moloch.png": "outlined_sprite:pinky_golden_moloch_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

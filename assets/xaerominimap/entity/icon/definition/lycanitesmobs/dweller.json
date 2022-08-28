@@ -1,0 +1,24 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/dweller.png": "outlined_sprite:dweller_icon.png" ,
+	"lycanitesmobs:textures/entity/dweller_azure.png": "outlined_sprite:dweller_azure_icon.png" ,
+	"lycanitesmobs:textures/entity/dweller_russet.png": "outlined_sprite:dweller_russet_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

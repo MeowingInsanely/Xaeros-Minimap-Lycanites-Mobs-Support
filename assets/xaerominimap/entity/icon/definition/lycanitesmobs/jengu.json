@@ -1,0 +1,24 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/jengu.png": "outlined_sprite:jengu_icon.png" ,
+	"lycanitesmobs:textures/entity/jengu_keppel.png": "outlined_sprite:jengu_keppel_icon.png" ,
+	"lycanitesmobs:textures/entity/jengu_violet.png": "outlined_sprite:jengu_violet_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

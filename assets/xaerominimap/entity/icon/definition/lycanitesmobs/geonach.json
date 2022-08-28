@@ -1,0 +1,25 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/geonach.png": "outlined_sprite:geonach_icon.png" ,
+	"lycanitesmobs:textures/entity/geonach_golden.png": "outlined_sprite:geonach_golden_icon.png" ,
+	"lycanitesmobs:textures/entity/geonach_keppel.png": "outlined_sprite:geonach_keppel_icon.png" ,
+	"lycanitesmobs:textures/entity/geonach_celestial.png": "outlined_sprite:geonach_celestial_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/cockatrice.png": "outlined_sprite:cockatrice_icon.png" ,
+	"lycanitesmobs:textures/entity/cockatrice_ashen.png": "outlined_sprite:cockatrice_ashen_icon.png" ,
+	"lycanitesmobs:textures/entity/cockatrice_violet.png": "outlined_sprite:cockatrice_violet_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

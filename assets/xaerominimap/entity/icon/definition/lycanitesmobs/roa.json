@@ -1,0 +1,24 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/roa.png": "outlined_sprite:roa_icon.png" ,
+	"lycanitesmobs:textures/entity/roa_scarlet.png": "outlined_sprite:roa_scarlet_icon.png" ,
+	"lycanitesmobs:textures/entity/roa_verdant.png": "outlined_sprite:roa_verdant_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

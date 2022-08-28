@@ -1,0 +1,24 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/ika.png": "outlined_sprite:ika_icon.png" ,
+	"lycanitesmobs:textures/entity/ika_azure.png": "outlined_sprite:ika_azure_icon.png" ,
+	"lycanitesmobs:textures/entity/ika_golden.png": "outlined_sprite:ika_golden_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

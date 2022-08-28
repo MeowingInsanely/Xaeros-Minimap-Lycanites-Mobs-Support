@@ -1,0 +1,25 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/behemoth.png": "outlined_sprite:behemoth_icon.png" ,
+	"lycanitesmobs:textures/entity/behemoth_dark.png": "outlined_sprite:behemoth_dark_icon.png" ,
+	"lycanitesmobs:textures/entity/behemoth_russet.png": "outlined_sprite:behemoth_russet_icon.png" ,
+	"lycanitesmobs:textures/entity/behemoth_krampus.png": "outlined_sprite:behemoth_krampus_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

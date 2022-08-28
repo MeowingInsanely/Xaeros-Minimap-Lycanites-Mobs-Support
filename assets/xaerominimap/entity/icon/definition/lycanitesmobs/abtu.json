@@ -1,0 +1,25 @@
+{
+	"variants": {
+		"lycanitesmobs:textures/entity/abtu.png": "outlined_sprite:abtu_icon.png" ,
+		"lycanitesmobs:textures/entity/abtu_azure.png": "outlined_sprite:abtu_azure_icon.png" ,
+		"lycanitesmobs:textures/entity/abtu_scarlet.png": "outlined_sprite:abtu_scarlet_icon.png"
+	},
+	
+	 "modelConfigs": [
+
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

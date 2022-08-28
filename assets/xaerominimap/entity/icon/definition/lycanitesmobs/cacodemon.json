@@ -1,0 +1,25 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/cacodemon.png": "outlined_sprite:cacodemon_icon.png" ,
+	"lycanitesmobs:textures/entity/cacodemon_russet.png": "outlined_sprite:cacodemon_russet_icon.png" ,
+	"lycanitesmobs:textures/entity/cacodemon_violet.png": "outlined_sprite:cacodemon_violet_icon.png" ,
+	"lycanitesmobs:textures/entity/cacodemon_ebon.png": "outlined_sprite:cacodemon_ebon_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

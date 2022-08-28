@@ -1,0 +1,26 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/trite.png": "outlined_sprite:trite_icon.png" ,
+	"lycanitesmobs:textures/entity/trite_lux.png": "outlined_sprite:trite_lux_icon.png" ,
+	"lycanitesmobs:textures/entity/trite_verdant.png": "outlined_sprite:trite_verdant_icon.png" ,
+	"lycanitesmobs:textures/entity/trite_azure_void.png": "outlined_sprite:trite_azure_void_icon.png" ,
+	"lycanitesmobs:textures/entity/trite_ashen_void.png": "outlined_sprite:trite_ashen_void_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

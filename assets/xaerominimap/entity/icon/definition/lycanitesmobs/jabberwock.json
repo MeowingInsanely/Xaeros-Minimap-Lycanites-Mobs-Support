@@ -1,0 +1,25 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/jabberwock.png": "outlined_sprite:jabberwock_icon.png" ,
+	"lycanitesmobs:textures/entity/jabberwock_dark.png": "outlined_sprite:jabberwock_dark_icon.png" ,
+	"lycanitesmobs:textures/entity/jabberwock_russet.png": "outlined_sprite:jabberwock_russet_icon.png" ,
+	"lycanitesmobs:textures/entity/jabberwock_rudolph.png": "outlined_sprite:jabberwock_rudolph_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

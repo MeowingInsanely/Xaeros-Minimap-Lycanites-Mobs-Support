@@ -1,0 +1,24 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/concapede.png": "outlined_sprite:concapede_icon.png" ,
+	"lycanitesmobs:textures/entity/concapede_azure.png": "outlined_sprite:concapede_azure_icon.png" ,
+	"lycanitesmobs:textures/entity/concapede_verdant.png": "outlined_sprite:concapede_verdant_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

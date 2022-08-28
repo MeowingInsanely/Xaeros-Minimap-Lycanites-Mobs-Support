@@ -1,0 +1,24 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/grell.png": "outlined_sprite:grell_icon.png" ,
+	"lycanitesmobs:textures/entity/grell_ashen.png": "outlined_sprite:grell_ashen_icon.png" ,
+	"lycanitesmobs:textures/entity/grell_scarlet.png": "outlined_sprite:grell_scarlet_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

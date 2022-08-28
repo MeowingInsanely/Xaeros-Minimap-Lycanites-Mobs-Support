@@ -1,0 +1,24 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/rahovart.png": "outlined_sprite:rahovart_icon.png" ,
+	"lycanitesmobs:textures/entity/rahovart_dark.png": "outlined_sprite:rahovart_dark_icon.png" ,
+	"lycanitesmobs:textures/entity/rahovart_lux.png": "outlined_sprite:rahovart_lux_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

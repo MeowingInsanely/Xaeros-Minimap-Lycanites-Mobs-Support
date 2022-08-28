@@ -1,0 +1,26 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/treant.png": "outlined_sprite:treant_icon.png" ,
+	"lycanitesmobs:textures/entity/treant_ashen.png": "outlined_sprite:treant_ashen_icon.png" ,
+	"lycanitesmobs:textures/entity/treant_russet.png": "outlined_sprite:treant_russet_icon.png" ,
+	"lycanitesmobs:textures/entity/treant_salty_tree.png": "outlined_sprite:treant_salty_tree_icon.png" ,
+	"lycanitesmobs:textures/entity/treant_warped_tree.png": "outlined_sprite:treant_warped_tree_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

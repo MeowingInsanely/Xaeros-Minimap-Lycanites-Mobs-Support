@@ -1,0 +1,24 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/tarantula.png": "outlined_sprite:tarantula_icon.png" ,
+	"lycanitesmobs:textures/entity/tarantula_russet.png": "outlined_sprite:tarantula_russet_icon.png" ,
+	"lycanitesmobs:textures/entity/tarantula_scarlet.png": "outlined_sprite:tarantula_scarlet_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

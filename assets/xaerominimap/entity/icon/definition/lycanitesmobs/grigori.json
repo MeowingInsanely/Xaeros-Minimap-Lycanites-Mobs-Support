@@ -1,0 +1,24 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/grigori.png": "outlined_sprite:grigori_icon.png" ,
+	"lycanitesmobs:textures/entity/grigori_ashen.png": "outlined_sprite:grigori_ashen_icon.png" ,
+	"lycanitesmobs:textures/entity/grigori_russet.png": "outlined_sprite:grigori_russet_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}

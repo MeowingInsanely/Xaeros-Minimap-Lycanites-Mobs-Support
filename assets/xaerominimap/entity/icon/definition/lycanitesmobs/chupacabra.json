@@ -1,0 +1,25 @@
+{
+	"variants": {
+	"lycanitesmobs:textures/entity/chupacabra.png": "outlined_sprite:chupacabra_icon.png" ,
+	"lycanitesmobs:textures/entity/chupacabra_verdant.png": "outlined_sprite:chupacabra_verdant_icon.png" ,
+	"lycanitesmobs:textures/entity/chupacabra_violet.png": "outlined_sprite:chupacabra_violet_icon.png" ,
+	"lycanitesmobs:textures/entity/chupacabra_phosphorescent.png": "outlined_sprite:chupacabra_phosphorescent_icon.png"
+	},
+	
+	 "modelConfigs": [
+		{
+		  "baseScale": 1.0,
+		  "rotationY": 0,
+		  "rotationX": 0,
+		  "rotationZ": 0,
+		  "offsetX": 0,
+		  "offsetY": 0,
+		  "modelPartsFields": [],
+		  "modelMainPartFieldAliases": [],
+		  "modelRootPath": [[]],
+		  "renderingFullModel": false,
+		  "modelPartsRotationReset": true,
+		  "layersAllowed": true
+		}
+	]
+}
