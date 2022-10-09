@@ -2,7 +2,10 @@
 	"variants": {
 	"lycanitesmobs:textures/entity/troll.png": "outlined_sprite:troll_icon.png" ,
 	"lycanitesmobs:textures/entity/troll_azure.png": "outlined_sprite:troll_azure_icon.png" ,
-	"lycanitesmobs:textures/entity/troll_russet.png": "outlined_sprite:troll_russet_icon.png"
+	"lycanitesmobs:textures/entity/troll_russet.png": "outlined_sprite:troll_russet_icon.png" ,
+	"lycanitesmobs:textures/entity/troll.png": "outlined_sprite:troll_stone_icon.png" ,
+	"lycanitesmobs:textures/entity/troll_azure.png": "outlined_sprite:troll_azure_stone_icon.png" ,
+	"lycanitesmobs:textures/entity/troll_russet.png": "outlined_sprite:troll_russet_stone_icon.png"
 	},
 	
 	 "modelConfigs": [

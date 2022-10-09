@@ -2,7 +2,8 @@
 	"variants": {
 	"lycanitesmobs:textures/entity/arisaur.png": "outlined_sprite:arisaur_icon.png" ,
 	"lycanitesmobs:textures/entity/arisaur_keppel.png": "outlined_sprite:arisaur_keppel_icon.png" ,
-	"lycanitesmobs:textures/entity/arisaur_russet.png": "outlined_sprite:arisaur_russet_icon.png"
+	"lycanitesmobs:textures/entity/arisaur_russet.png": "outlined_sprite:arisaur_russet_icon.png" ,
+	"lycanitesmobs:textures/entity/arisaur_flowersaur.png": "outlined_sprite:arisaur_flowersaur_icon.png"
 	},
 	
 	 "modelConfigs": [

@@ -3,8 +3,8 @@
 	"lycanitesmobs:textures/entity/ent.png": "outlined_sprite:ent_icon.png" ,
 	"lycanitesmobs:textures/entity/ent_russet.png": "outlined_sprite:ent_russet_icon.png" ,
 	"lycanitesmobs:textures/entity/ent_scarlet.png": "outlined_sprite:ent_scarlet_icon.png" ,
-	"lycanitesmobs:textures/entity/ent_salty_tree.png": "outlined_sprite:ent_salty_tree_icon.png" ,
-	"lycanitesmobs:textures/entity/ent_warped_tree.png": "outlined_sprite:ent_warped_tree_icon.png"
+	"lycanitesmobs:textures/entity/ent_saltytree.png": "outlined_sprite:ent_saltytree_icon.png" ,
+	"lycanitesmobs:textures/entity/ent_twisted_tree.png": "outlined_sprite:ent_twisted_tree_icon.png"
 	},
 	
 	 "modelConfigs": [

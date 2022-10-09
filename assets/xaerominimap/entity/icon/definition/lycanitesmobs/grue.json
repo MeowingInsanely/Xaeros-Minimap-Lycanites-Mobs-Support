@@ -3,7 +3,7 @@
 	"lycanitesmobs:textures/entity/grue.png": "outlined_sprite:grue_icon.png" ,
 	"lycanitesmobs:textures/entity/grue_scarlet.png": "outlined_sprite:grue_scarlet_icon.png" ,
 	"lycanitesmobs:textures/entity/grue_verdant.png": "outlined_sprite:grue_verdant_icon.png" ,
-	"lycanitesmobs:textures/entity/grue_shadow_clown.png": "outlined_sprite:grue_shadow_clown_icon.png" ,
+	"lycanitesmobs:textures/entity/grue_shadowclown.png": "outlined_sprite:grue_shadowclown_icon.png" ,
 	"lycanitesmobs:textures/entity/grue_lunar.png": "outlined_sprite:grue_lunar_icon.png"
 	},
 	

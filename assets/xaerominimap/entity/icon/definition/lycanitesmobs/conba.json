@@ -2,7 +2,10 @@
 	"variants": {
 	"lycanitesmobs:textures/entity/conba.png": "outlined_sprite:conba_icon.png" ,
 	"lycanitesmobs:textures/entity/conba_dark.png": "outlined_sprite:conba_dark_icon.png" ,
-	"lycanitesmobs:textures/entity/conba_violet.png": "outlined_sprite:conba_violet_icon.png"
+	"lycanitesmobs:textures/entity/conba_violet.png": "outlined_sprite:conba_violet_icon.png" ,
+	"lycanitesmobs:textures/entity/conba_infected.png": "outlined_sprite:conba_infected_icon.png" ,
+	"lycanitesmobs:textures/entity/conba_infected_dark.png": "outlined_sprite:conba_infected_dark_icon.png" ,
+	"lycanitesmobs:textures/entity/conba_infected_violet.png": "outlined_sprite:conba_infected_violet_icon.png"
 	},
 	
 	 "modelConfigs": [

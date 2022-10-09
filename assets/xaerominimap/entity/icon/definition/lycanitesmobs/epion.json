@@ -3,7 +3,7 @@
 	"lycanitesmobs:textures/entity/epion.png": "outlined_sprite:epion_icon.png" ,
 	"lycanitesmobs:textures/entity/epion_azure.png": "outlined_sprite:epion_azure_icon.png" ,
 	"lycanitesmobs:textures/entity/epion_russet.png": "outlined_sprite:epion_russet_icon.png" ,
-	"lycanitesmobs:textures/entity/epion_vampire_bat.png": "outlined_sprite:epion_vampire_bat_icon.png" ,
+	"lycanitesmobs:textures/entity/epion_vampirebat.png": "outlined_sprite:epion_vampirebat_icon.png" ,
 	"lycanitesmobs:textures/entity/epion_crimson.png": "outlined_sprite:epion_crimson_icon.png"
 	},
 	
